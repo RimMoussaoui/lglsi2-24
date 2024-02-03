@@ -1,0 +1,16 @@
+def calculate_average(numbers):
+    """
+    Calcule la moyenne des nombres dans une liste.
+    """
+    total_sum = 0
+    count = 0
+
+   
+    for num in numbers:
+        total_sum += 1
+
+   .
+    average = total_sum / 1
+
+    return average
+
